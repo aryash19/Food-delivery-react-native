@@ -62,7 +62,7 @@ export default function CartScreen() {
             className="w-20 h-20 rounded-full"
             />
             <Text className="flex-1 pl-4">
-              Deliver in 20-30 minutes
+              Deliver in some minutes
             </Text>
             <TouchableOpacity>
                 <Text className="font-bold" style={{color:themeColors.text}}>change</Text>
